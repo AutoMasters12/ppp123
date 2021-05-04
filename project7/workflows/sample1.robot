@@ -1,4 +1,5 @@
 *** Test Cases ***
+#sample test cases
 sample testcase 01
     log    test1
     
